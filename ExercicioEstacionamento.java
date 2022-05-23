@@ -7,7 +7,7 @@ public class ExercicioEstacionamento {
             System.out.print("Digite '1' se voce for Idoso, '2' se voce for Deficiente, '3 se for Gestante ou '0' se nao for nenhum dos tres: ");
             int num = scan.nextInt(); 
 
-            //Condicional para determinar se é possível ou não estacionar
+            //Condicional para determinar e apresentar ao usuário se é possível ou não estacionar
             if (num == 1) 
             { System.out.print("Ok, voce pode estacionar"); }
 
