@@ -6,13 +6,20 @@
 Início
 
 ```
- Enquanto Existem disciplinas? Faça
-      Enquanto Existem alunos? Faça
-	Ler as notas de um aluno da disciplina em questão
-	Calcular a nota final
-	Exibir sua nota
-      Fim Enquanto
- Fim Enquanto    
+Digitar se o usuário é Idoso, Deficiente, Gestante ou nenhum dos três
+Enquanto É Idoso? Faça
+     Exibir que pode Estacionar
+Fim Enquanto
+Enquanto É Deficiente? Faça
+     Exibir que pode estacionar
+Fim Enquanto
+Enquanto É Gestante? Faça
+     Exibir que pode estacionar
+Fim Enquanto
+Enquanto Nenhum dos três? Faça
+     Exibir que não pode estacionar
+Fim Enquanto
+
 ```
 
 Fim
